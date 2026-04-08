@@ -1,4 +1,4 @@
-ha# Sentient Shield - Enterprise EDR & Threat Hunting Grid
+
 
 ## Overview
 Enterprise-grade Endpoint Detection and Response (EDR) system for Security Operations Center (SOC). Built for Infotact Solutions' Cyber Defense Operations Center (CDOC).
